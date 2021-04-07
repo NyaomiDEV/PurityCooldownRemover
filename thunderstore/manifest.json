@@ -1,0 +1,10 @@
+{
+	"name": "Purity Cooldown Remover",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/AryToNeX/PurityCooldownRemover",
+	"description": "Removes Purity's 2-seconds cap if enough of them are stacked.",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.9",
+		"RiskofThunder-HookGenPatcher-1.2.0"
+	]
+}
