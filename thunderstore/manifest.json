@@ -1,5 +1,5 @@
 {
-	"name": "Purity Cooldown Remover",
+	"name": "PurityCooldownRemover",
 	"version_number": "1.0.0",
 	"website_url": "https://github.com/AryToNeX/PurityCooldownRemover",
 	"description": "Removes Purity's 2-seconds cap if enough of them are stacked.",
